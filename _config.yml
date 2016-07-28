@@ -1,22 +1,22 @@
-typography_spectrum: 0.18106642784550786
+typography_spectrum: 0.019284642999991775
 color:
-  brandStrength: 0.7198931374587119
-  lightness: 0.47088748635724187
-  saturation: 0.2767835115082562
-  rhythmicContrast: 0.45806905371136963
+  brandStrength: 0.6001719702035189
+  lightness: 0.8665061651263386
+  saturation: 0.17550807748921216
+  rhythmicContrast: 0.6222493331879377
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 opengraph:
   type: Page
   appId: donnybaileyseagraves
-layout_spectrum: 0.7044983736705035
+layout_spectrum: 0.4677843807730824
 author:
   name: Donny Seagraves
   email: donnyseagraves@gmail.com
   url: thegrid.ai/donny-bailey-seagraves
 name: Donny Bailey Seagraves
-title: Welcome
+title: Author
