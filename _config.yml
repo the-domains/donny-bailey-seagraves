@@ -1,19 +1,19 @@
-typography_spectrum: 0.019284642999991775
+typography_spectrum: 0.2654479828197509
 color:
-  brandStrength: 0.6001719702035189
-  lightness: 0.8665061651263386
-  saturation: 0.17550807748921216
-  rhythmicContrast: 0.6222493331879377
+  brandStrength: 0.9645847408100963
+  lightness: 0.5288644458632916
+  saturation: 0.5096669914200902
+  rhythmicContrast: 0.2939132263418287
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#070101'
+    - '#FEFAF9'
+    - '#A5A1A0'
+    - '#494544'
+    - '#D3CFCE'
 opengraph:
   type: Page
   appId: donnybaileyseagraves
-layout_spectrum: 0.4677843807730824
+layout_spectrum: 0.17166997492313385
 author:
   name: Donny Seagraves
   email: donnyseagraves@gmail.com
