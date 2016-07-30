@@ -23,4 +23,7 @@ navigation:
   - name: About me
     id: 38a55448-1262-4631-85eb-676a4a873309
     type: content
+  - name: Writing
+    id: 0425f84c-38d3-44b8-b95d-68153b083afd
+    type: content
 title: Author
