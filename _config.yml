@@ -18,6 +18,8 @@ author:
   name: Donny Seagraves
   email: donnyseagraves@gmail.com
   url: thegrid.ai/donny-bailey-seagraves
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6df13d03-f72f-4a01-b102-ffd0d3a307bb.jpg
 name: Donny Bailey Seagraves
 navigation:
   - name: About me
@@ -26,4 +28,6 @@ navigation:
   - name: Writing
     id: 0425f84c-38d3-44b8-b95d-68153b083afd
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/887c3979-91c2-49e9-b659-589d43e4f234.png
 title: Author
