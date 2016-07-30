@@ -4,15 +4,8 @@
         <description><![CDATA[Author]]></description>
         <link>https://thegrid.ai/donny-bailey-seagraves/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 20:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 20:10:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/donny-bailey-seagraves/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c070fa03-5ebb-4e56-a19b-951bd6ef8dc1.jpg" alt="Gone From These Woods by Donny Bailey Seagraves">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c070fa03-5ebb-4e56-a19b-951bd6ef8dc1.jpg</link>
-            <guid isPermaLink="false">046b5a42-5de7-422b-84e8-8ac68f5fa947</guid>
-            <pubDate>Sat, 30 Jul 2016 20:10:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Gone From These Woods]]></title>
             <description><![CDATA[<article><h1>Gone From These Woods</h1><p>On the day Daniel Sartain will remember for the rest of his life, the chilly morning air feels damp and smells of fallen leaves. He stands in the woods of rural Georgia before daybreak with his role model, best friend, and father figure, Uncle Clay, and dreams of being back home under warm blankets.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cdb1cceb9831e2f13e6c6b9bf5c8df33/noop.jpg?input=https%3A%2F%2Fi0.wp.com%2Fcomplex-slip.flywheelsites.com%2Fwp-content%2Fuploads%2F2016%2F02%2Fgftwyearling62920112-199x300.jpg%3Fresize%3D199%252C300"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://donnyseagraves.com/the-final-link/</link>
             <guid isPermaLink="false">dc1bc21a-2806-4275-ba12-56cd20c982ff</guid>
             <pubDate>Sat, 30 Jul 2016 20:09:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Good Men Live on in Memories]]></title>
+            <description><![CDATA[<article><h1>Good Men Live on in Memories</h1><p>Down a shady, tree-lined street, behind a comfortable frame house, inside a modest workshop, there is a silence now more deafening than the sound of the loudest explosion. Power tools stand mute among the wood shavings while wood waits, raw and unformed, for expert hands that will never turn it into comfortable porch swings, whimsical animals and sturdy cabinets.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/105fe414b6707688d6cbe14a898b9d3f/noop.jpg?input=https%3A%2F%2Fi0.wp.com%2Fdonnyseagraves.com%2Fwp-content%2Fuploads%2F2016%2F04%2Fdonnycolumn1-300x177.jpg%3Fresize%3D300%252C177"></article>]]></description>
+            <link>https://donnyseagraves.com/good-men-live-on-in-memories/</link>
+            <guid isPermaLink="false">98a0b175-f38d-4ab3-90e0-1234961c487e</guid>
+            <pubDate>Sat, 30 Jul 2016 20:09:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
