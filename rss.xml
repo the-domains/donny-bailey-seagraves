@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Author]]></title>
+        <description><![CDATA[Author]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jul 2016 20:02:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Winterville: History of a Railroad Town]]></title>
+            <description><![CDATA[<article><h1>Winterville: History of a Railroad Town</h1><p>For those of you who missed our recent Boomersinathens.org Winterville: History of a Railroad Town community snapshot program at the historic Winterville train depot, here's a link to the video of the program on Youtube: Winterville: History of a Railroad Town. And here's a link that we made to promote this Winterville History program.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e837511583a92c50efb37b37fd9d1cf9/noop.jpg?input=https%3A%2F%2Fi0.wp.com%2Fdonnyseagraves.com%2Fwp-content%2Fuploads%2F2012%2F03%2Fhistoryprogram.jpg%3Ffit%3D480%252C360%26ssl%3D1"></article>]]></description>
+            <link>https://donnyseagraves.com/2012/03/20/archives838/</link>
+            <guid isPermaLink="false">0722a0fb-5665-44c4-b097-84e9de12a232</guid>
+            <pubDate>Sat, 30 Jul 2016 20:02:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
