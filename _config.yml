@@ -19,4 +19,8 @@ author:
   email: donnyseagraves@gmail.com
   url: thegrid.ai/donny-bailey-seagraves
 name: Donny Bailey Seagraves
+navigation:
+  - name: About me
+    id: 38a55448-1262-4631-85eb-676a4a873309
+    type: content
 title: Author
