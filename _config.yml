@@ -1,4 +1,29 @@
-title: ''
+typography_spectrum: 0.2654479828197509
+color:
+  saturation: 0.5096669914200902
+  brandStrength: 0.9645847408100963
+  rhythmicContrast: 0.2939132263418287
+  brandColors:
+    - '#070101'
+    - '#FEFAF9'
+    - '#A5A1A0'
+    - '#494544'
+    - '#D3CFCE'
+  lightness: 0.5288644458632916
+opengraph:
+  type: Page
+  appId: donnybaileyseagraves
+layout_spectrum: 0.8370928
+author:
+  name: Donny Seagraves
+  email: donnyseagraves@gmail.com
+  url: thegrid.ai/donny-bailey-seagraves
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6df13d03-f72f-4a01-b102-ffd0d3a307bb.jpg
+name: Donny Bailey Seagraves
+navigation: []
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/887c3979-91c2-49e9-b659-589d43e4f234.png
 collections:
   - index:
       path: /
@@ -11,35 +36,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5096669914200902
-  brandStrength: 0.9645847408100963
-  rhythmicContrast: 0.2939132263418287
-  brandColors:
-    - '#070101'
-    - '#FEFAF9'
-    - '#A5A1A0'
-    - '#494544'
-    - '#D3CFCE'
-  lightness: 0.5288644458632916
-navigation:
-  - name: '  Writing'
-    id: 38a55448-1262-4631-85eb-676a4a873309
-    type: content
-  - name: '  Writing'
-    id: 0425f84c-38d3-44b8-b95d-68153b083afd
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/887c3979-91c2-49e9-b659-589d43e4f234.png
-author:
-  name: Donny Seagraves
-  email: donnyseagraves@gmail.com
-  url: thegrid.ai/donny-bailey-seagraves
-name: Donny Bailey Seagraves
-opengraph:
-  type: Page
-  appId: donnybaileyseagraves
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6df13d03-f72f-4a01-b102-ffd0d3a307bb.jpg
-typography_spectrum: 0.2654479828197509
-layout_spectrum: 0.8370928
+title: ''
