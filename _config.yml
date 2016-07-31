@@ -25,6 +25,9 @@ navigation:
   - name: FAQs
     id: 2608c776-fd8d-4ec9-add2-cf3cee9ce2f4
     type: content
+  - name: About me
+    id: 38a55448-1262-4631-85eb-676a4a873309
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/887c3979-91c2-49e9-b659-589d43e4f234.png
 collections:
