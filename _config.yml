@@ -21,7 +21,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6df13d03-f72f-4a01-b102-ffd0d3a307bb.jpg
 name: Donny Bailey Seagraves
-navigation: []
+navigation:
+  - name: FAQs
+    id: 2608c776-fd8d-4ec9-add2-cf3cee9ce2f4
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/887c3979-91c2-49e9-b659-589d43e4f234.png
 collections:
