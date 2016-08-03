@@ -5,23 +5,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.2587719
+  saturation: 0.3289474
   brandStrength: 0.9645847408100963
-  lightness: 0.7932331
+  lightness: 0.4505013
   brandColors:
     - '#FBFAFF'
     - '#0F1014'
     - '#D3B8A9'
     - '#645334'
     - '#8B806B'
-  rhythmicContrast: 0.14599
+  rhythmicContrast: 0.7631579
 navigation:
   - name: About me
     id: 38a55448-1262-4631-85eb-676a4a873309
@@ -32,13 +32,13 @@ navigation:
   - name: FAQs
     id: 2608c776-fd8d-4ec9-add2-cf3cee9ce2f4
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/887c3979-91c2-49e9-b659-589d43e4f234.png
 name: Donny Bailey Seagraves
 author:
   name: Donny Seagraves
   email: donnyseagraves@gmail.com
   url: thegrid.ai/donny-bailey-seagraves
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/887c3979-91c2-49e9-b659-589d43e4f234.png
 opengraph:
   type: Page
   appId: donnybaileyseagraves
