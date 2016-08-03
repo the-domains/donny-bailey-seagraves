@@ -1,26 +1,27 @@
-typography_spectrum: 0.2654479828197509
+title: ''
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.5096669914200902
+  saturation: 0.2587719
   brandStrength: 0.9645847408100963
-  rhythmicContrast: 0.2939132263418287
+  lightness: 0.7932331
   brandColors:
-    - '#070101'
-    - '#FEFAF9'
-    - '#A5A1A0'
-    - '#494544'
-    - '#D3CFCE'
-  lightness: 0.5288644458632916
-opengraph:
-  type: Page
-  appId: donnybaileyseagraves
-layout_spectrum: 0.8370928
-author:
-  name: Donny Seagraves
-  email: donnyseagraves@gmail.com
-  url: thegrid.ai/donny-bailey-seagraves
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6df13d03-f72f-4a01-b102-ffd0d3a307bb.jpg
-name: Donny Bailey Seagraves
+    - '#FBFAFF'
+    - '#0F1014'
+    - '#D3B8A9'
+    - '#645334'
+    - '#8B806B'
+  rhythmicContrast: 0.14599
 navigation:
   - name: About me
     id: 38a55448-1262-4631-85eb-676a4a873309
@@ -31,18 +32,17 @@ navigation:
   - name: FAQs
     id: 2608c776-fd8d-4ec9-add2-cf3cee9ce2f4
     type: content
+name: Donny Bailey Seagraves
+author:
+  name: Donny Seagraves
+  email: donnyseagraves@gmail.com
+  url: thegrid.ai/donny-bailey-seagraves
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/887c3979-91c2-49e9-b659-589d43e4f234.png
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: ''
+opengraph:
+  type: Page
+  appId: donnybaileyseagraves
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6df13d03-f72f-4a01-b102-ffd0d3a307bb.jpg
+typography_spectrum: 0.2654479828197509
+layout_spectrum: 0.8370928
