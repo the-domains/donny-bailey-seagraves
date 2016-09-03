@@ -32,17 +32,17 @@ navigation:
   - name: FAQs
     id: 2608c776-fd8d-4ec9-add2-cf3cee9ce2f4
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/887c3979-91c2-49e9-b659-589d43e4f234.png
+name: Donny Bailey Seagraves
 author:
   name: Donny Seagraves
   email: donnyseagraves@gmail.com
   url: thegrid.ai/donny-bailey-seagraves
-name: Donny Bailey Seagraves
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/887c3979-91c2-49e9-b659-589d43e4f234.png
 opengraph:
   type: Page
   appId: donnybaileyseagraves
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6df13d03-f72f-4a01-b102-ffd0d3a307bb.jpg
 typography_spectrum: 0.2654479828197509
-layout_spectrum: 0.8370928
+layout_spectrum: 0.3370927
